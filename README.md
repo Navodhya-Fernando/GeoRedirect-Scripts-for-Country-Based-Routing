@@ -1,3 +1,5 @@
+[![Live Website](https://img.shields.io/badge/Live-Demo-brightgreen)](dreamshift.net)
+
 # 🌍 GeoRedirect Scripts for Country-Based Routing
 
 This project contains lightweight JavaScript snippets that dynamically redirect users to country-specific pages based on their IP address. These scripts are used in production on [Your Company Name]'s website to tailor the user experience by location.
