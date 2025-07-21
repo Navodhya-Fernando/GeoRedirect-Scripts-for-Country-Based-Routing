@@ -13,7 +13,15 @@ This project contains lightweight JavaScript snippets that dynamically redirect 
   - Pricing (`/pricing-XX`)
 - Fallback routes for unsupported countries.
 - Easily extendable to support more regions.
-- 
+
+  ## 📦 Dependencies
+
+This project relies on the following external services:
+
+- [`ipapi.co`](https://ipapi.co/) — for IP-based geolocation lookup (free tier available)
+  - Used to detect the user’s country based on their IP address.
+  - No installation required; fetched using the Fetch API in the browser.
+  
 ![Snapshot](./screenshots/home-lk.png)
 ![Snapshot](./screenshots/services-uk.png)
 ![Snapshot](./screenshots/pricing-us.png)
