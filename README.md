@@ -21,10 +21,20 @@ This project relies on the following external services:
 - [`ipapi.co`](https://ipapi.co/) — for IP-based geolocation lookup (free tier available)
   - Used to detect the user’s country based on their IP address.
   - No installation required; fetched using the Fetch API in the browser.
+ 
+  ## 📸 Snapshots
+
   
+ - Home Page
 ![Snapshot](./screenshots/home-lk.png)
+
+- Services
 ![Snapshot](./screenshots/services-uk.png)
+
+- Pricing
 ![Snapshot](./screenshots/pricing-us.png)
+
+- Contact
 ![Snapshot](./screenshots/contact-au.png)
 
 ## 🧠 How It Works
