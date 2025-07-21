@@ -1,4 +1,4 @@
-[![Live Website](https://img.shields.io/badge/Live-Demo-brightgreen)](dreamshift.net)
+[![Live Website](https://img.shields.io/badge/Live-Demo-brightgreen)](https://dreamshift.net)
 
 # 🌍 GeoRedirect Scripts for Country-Based Routing
 
