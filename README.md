@@ -13,6 +13,11 @@ This project contains lightweight JavaScript snippets that dynamically redirect 
   - Pricing (`/pricing-XX`)
 - Fallback routes for unsupported countries.
 - Easily extendable to support more regions.
+- 
+![Snapshot](./screenshots/home-lk.png)
+![Snapshot](./screenshots/services-uk.png)
+![Snapshot](./screenshots/pricing-us.png)
+![Snapshot](./screenshots/contact-au.png)
 
 ## 🧠 How It Works
 
